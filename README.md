@@ -26,7 +26,7 @@
 
 ### gitee环境配置
 教程：https://zhuanlan.zhihu.com/p/138294380  
-git bash:用于与云端交互操作
+git bash:用于与云端交互操作  
 下载git bash 链接：https://pan.baidu.com/s/1X1mSF6dhePlDR1VJwj_lwQ  提取码：44pg  
 atom:用于文档文件编辑  
 下载atom 链接：链接: https://pan.baidu.com/s/1odPUpl3hNheuNRAcizMymw  密码: fqrk

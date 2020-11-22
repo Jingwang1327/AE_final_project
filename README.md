@@ -16,3 +16,11 @@
 教程：https://zhuanlan.zhihu.com/p/138294380  
 下载git bash 链接：https://pan.baidu.com/s/1X1mSF6dhePlDR1VJwj_lwQ  提取码：44pg  
 下载atom 链接：链接: https://pan.baidu.com/s/1odPUpl3hNheuNRAcizMymw  密码: fqrk
+
+### gitee操作
+1. 从云端下载到本地：  
+git pull origin master  
+2. 从本地上传云端 ：  
+git add .  
+git commit -m"你想备注的东西"  
+git push origin master  
